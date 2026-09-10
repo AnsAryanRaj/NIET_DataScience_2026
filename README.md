@@ -33,3 +33,7 @@ This repository is also being used to practice:
 - Remote repositories
 - GitHub
 - Push and Pull operations
+
+## Development Branch
+
+This section is added while working on the development branch.
