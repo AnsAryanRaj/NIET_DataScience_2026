@@ -1,0 +1,23 @@
+{
+  "name": "student-registration-devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "validation.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.2",
+    "jest-environment-jsdom": "^30.5.2"
+  },
+  "jest": {
+    "testEnvironment": "jsdom"
+  }
+}
